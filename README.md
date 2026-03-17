@@ -1,2 +1,2 @@
 # badge-test
-Hello GitHub
+Hello GitHub.
